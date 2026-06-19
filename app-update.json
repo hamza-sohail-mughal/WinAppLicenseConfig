@@ -2,9 +2,5 @@
   "latestVersion": "1.5.1.4",
   "downloadUrl": "https://raw.githubusercontent.com/hamza-sohail-mughal/ExeErp2025/main/Erp%202026-AnyCPU_Debug-SetupFiles/Erp%202026.msi",
   "releaseNotes": "• نئے فیچرز\n• بہتر کارکردگی\n• بگ فکسز",
-  "mandatory": false,
-  "minSupportedVersion": "1.0.0",
-  "fileSha256": "",
-  "fileSizeBytes": 57075200,
   "updatedAt": "2026-06-19"
 }
